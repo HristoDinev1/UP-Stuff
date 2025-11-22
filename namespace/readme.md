@@ -169,7 +169,7 @@ int main()
 {
   f();  //Error (active)	E0308	more than one instance of overloaded function "f" matches the argument list:
         //Error	C2668	'A::f': ambiguous call to overloaded function
-        // Компилационна грешка : identifier has multiple overloads
+        // Компилационна грешка : identifier has multiple overloads  // bla bla bla NERD
 }
 ```
 * Не използването на оператор за резолюция
